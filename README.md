@@ -1,7 +1,7 @@
 # Case 2
 # Total Order Calculation Function
 
-This solution to the Case #2 is a simple fucntional approach:
+This solution to the Case #2 is a simple functional approach:
 
 CalculationsHelpers Class
 
