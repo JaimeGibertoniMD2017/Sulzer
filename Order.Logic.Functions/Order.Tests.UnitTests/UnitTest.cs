@@ -5,6 +5,20 @@ namespace Order.Tests.UnitTests
 {
     public class UnitTest
     {
+        [Fact]
+        public void CalculateOrderTotalPrice_Null_ReturnsZero()
+        {
+            // Arrange
+            List<Item>? order = null;
+            decimal expectedOrderTotalPrice = 0;
+            
+            // Act
+            var result = CalculationsHelpers.CalculateTotalPrice(order);
+
+            // Assert
+            Assert.Equal(expectedOrderTotalPrice, result);
+        }
+
         [Theory]
         [MemberData(nameof(TestDataZero))]
         public void CalculateOrderTotalPrice_ZeroItems_ReturnsZero(List<Item> order, decimal expectedOrderTotalPrice)
@@ -24,7 +38,7 @@ namespace Order.Tests.UnitTests
             var result = CalculationsHelpers.CalculateTotalPrice(order);
 
             // Assert
-            Assert.Equal(expectedOrderTotalPriceWithoutDiscounts, result); 
+            Assert.Equal(expectedOrderTotalPriceWithoutDiscounts, result);
         }
 
         [Theory]
