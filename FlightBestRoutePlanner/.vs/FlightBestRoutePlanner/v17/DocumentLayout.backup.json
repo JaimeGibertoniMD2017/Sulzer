@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B72A34-0EA3-4476-8503-5290CE02A1BA}|FlightBestRoutePlanner.UI.Console\\FlightBestRoutePlanner.UI.Console.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B72A34-0EA3-4476-8503-5290CE02A1BA}|FlightBestRoutePlanner.UI.Console\\FlightBestRoutePlanner.UI.Console.csproj|solutionrelative:flightbestrouteplanner.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.logic\\fligthroutegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|solutionrelative:flightbestrouteplanner.logic\\fligthroutegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.logic\\flightrouteplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|solutionrelative:flightbestrouteplanner.logic\\flightrouteplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE105528-4D6E-4280-8D8D-3387B631EC88}|FlightBestRoutePlanner.Data\\FlightBestRoutePlanner.Data.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.data\\fibonacciheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE105528-4D6E-4280-8D8D-3387B631EC88}|FlightBestRoutePlanner.Data\\FlightBestRoutePlanner.Data.csproj|solutionrelative:flightbestrouteplanner.data\\fibonacciheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.logic\\pricingrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAE7D40-37E6-4079-B2E2-C327B9CCE5C6}|FlightBestRoutePlanner.Logic\\FlightBestRoutePlanner.Logic.csproj|solutionrelative:flightbestrouteplanner.logic\\pricingrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175AFE7C-BBD2-417D-8E85-5DDD8A375C93}|FlightBestRoutePlanner.Model\\FlightBestRoutePlanner.Model.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175AFE7C-BBD2-417D-8E85-5DDD8A375C93}|FlightBestRoutePlanner.Model\\FlightBestRoutePlanner.Model.csproj|solutionrelative:flightbestrouteplanner.model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175AFE7C-BBD2-417D-8E85-5DDD8A375C93}|FlightBestRoutePlanner.Model\\FlightBestRoutePlanner.Model.csproj|c:\\users\\jaime\\source\\repos\\flightbestrouteplanner\\flightbestrouteplanner.model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175AFE7C-BBD2-417D-8E85-5DDD8A375C93}|FlightBestRoutePlanner.Model\\FlightBestRoutePlanner.Model.csproj|solutionrelative:flightbestrouteplanner.model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightRoutePlanner.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\FlightRoutePlanner.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Logic\\FlightRoutePlanner.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\FlightRoutePlanner.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Logic\\FlightRoutePlanner.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:17:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FligthRouteGraph.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\FligthRouteGraph.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Logic\\FligthRouteGraph.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\FligthRouteGraph.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Logic\\FligthRouteGraph.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:15:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PricingRules.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\PricingRules.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Logic\\PricingRules.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Logic\\PricingRules.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Logic\\PricingRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:06:35.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.UI.Console\\Program.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:38:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FibonacciHeap.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Data\\FibonacciHeap.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Data\\FibonacciHeap.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Data\\FibonacciHeap.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Data\\FibonacciHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:54:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Model\\City.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Model\\City.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Model\\City.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Model\\City.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:01:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Model\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightBestRoutePlanner.Model\\Flight.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\FlightBestRoutePlanner\\FlightBestRoutePlanner.Model\\Flight.cs",
+              "RelativeToolTip": "FlightBestRoutePlanner.Model\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:02:21.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
