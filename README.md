@@ -1,3 +1,16 @@
+# Case 1
+# Architecture and Security Case Study
+
+graph TD
+    A[Azure Container Apps] -->|Hosts| B[Web Application]
+    A -->|Hosts| C[Web API]
+    B & C -->|Authenticates| D[Azure AD B2C]
+    B & C -->|Processes Data| E[Azure Data Factory]
+    E -->|Stores Data| F[Azure Blob Storage]
+
+Simple case presentation with a basic architecture that can scale up into a more powerfull scenarios and including proposals for other services combinations keeping in mind costs constraints and security.
+In the same folder there will be a cost analysis file in Excel showing the three Basic, Medium and Premium scenarios under a USD 30k per year (with 3 services and Azure B2C). Adding Azure Sql Databases if required as part of the data analytics application. Other services and storage models are suggested as a combination once there is more detail regarding the applications and IoT involved. Power BI and Synapse Analytics are suggested for extra level of data analysis support.
+
 # Case 2
 # Total Order Calculation Function
 
@@ -60,3 +73,4 @@ PS C:\git clone https://github.com/JaimeGibertoniMD2017/Sulzer.git
 You must have at least WSL2 or Hyper-V and Docker installed using VS code or VS 2022 to run the containerised UI Console App. The output will be displayed on Docker Desktop as expected. But can be debugged for inspection purposes. This implementation lacks of Unit Tests.
 
 Flight Planner database is located inside the project folder (\SQLScripts folder) as Data and Schema script and a database backup file (.bak)
+
